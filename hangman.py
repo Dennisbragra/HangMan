@@ -65,4 +65,4 @@ legs = """
          |
       ___|____       
             """
-          
+print(top_pole)         
